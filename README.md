@@ -34,7 +34,7 @@ During week 2 you will reinforce the basic web development and coding skills tha
 
 ## Resources
 
-1. Instructions for generating a ssh key 
+1. Instructions for generating a ssh key <a href = "https://help.github.com/articles/generating-ssh-keys/"> here </a>
 2. 
 
 2. 
