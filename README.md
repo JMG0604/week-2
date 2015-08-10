@@ -35,6 +35,6 @@ During week 2 you will reinforce the basic web development and coding skills tha
 ## Resources
 
 1. Instructions for generating a ssh key:
-[] $ ssh-keygen -t rsa
-[] $ cat ~/.ssh/id_rsa.pub (Allows you to copy and paste with mouse)
+  2. $ ssh-keygen -t rsa
+  3. $ cat ~/.ssh/id_rsa.pub (Allows you to copy and paste with mouse)
 2. 
