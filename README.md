@@ -37,4 +37,9 @@ During week 2 you will reinforce the basic web development and coding skills tha
 1. Instructions for generating a ssh key:
   2. $ ssh-keygen -t rsa
   3. $ cat ~/.ssh/id_rsa.pub (Allows you to copy and paste with mouse)
+  4. Copy the entire ssh key
+  5. In the top right of your GitHub account click on the dropdown icon 
+  6. Click on SSH keys
+  7. Click add SSH key
+  8. Paste SSH key
 2. 
