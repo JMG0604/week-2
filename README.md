@@ -42,4 +42,5 @@ During week 2 you will reinforce the basic web development and coding skills tha
   6. Click on SSH keys
   7. Click add SSH key
   8. Paste SSH key
-2. 
+2. [Git Cheat Sheet] (https://drive.google.com/a/codedbykids.com/file/d/0Bz3F8ctmiDRJeTNwaURMWW05T1U/view?usp=sharing)
+3. [Linux Command Line Cheat Sheet] (https://drive.google.com/file/d/0Bz3F8ctmiDRJUEwyMmplZ1dqdlU/view?usp=sharing)
